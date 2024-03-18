@@ -91,3 +91,6 @@ div h1{
     width: 50%;
     align-self: center;
 }
+div h2{
+ text-align: left;
+}
